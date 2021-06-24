@@ -1,3 +1,8 @@
+---
+title: "Useful Git commands"
+date: 2020-06-24
+---
+
 The four commands above copy files between the working directory, the stage (also called the index), and the history (in the form of commits).
 
 git add files copies files (at their current state) to the stage.
